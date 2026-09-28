@@ -1,0 +1,7 @@
+{
+  "machine.Platform Settings.Windows.visual_studio_path": "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/Tools/VsDevCmd.bat",
+  "machine.Platform Settings.Android.Paths.sdk_location": "C:/Users/transmacsual/AppData/Local/Android/Sdk",
+  "machine.Platform Settings.Android.Paths.jdk_location": "C:/Program Files/Android/Android Studio/jbr",
+  "applicationPath": "C:/Program Files/GameMaker/GameMaker.exe",
+  "project_cache_directory_name": "threeman_delux_cache"
+}

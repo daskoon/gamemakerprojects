@@ -1,0 +1,1 @@
+// --- DICE LOGIC ---\nif (isRolling) {\n    image_index = irandom(5); // Rapidly cycle faces while rolling\n}

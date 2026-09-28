@@ -1,0 +1,51 @@
+<plist version="1.0">
+<dict>
+	<key>Answer</key>
+	<string>1697620782_5D73204D8A561C21893C05E501A6151D</string>
+	<key>ExpiryDate</key>
+	<string>2026-04-08T23:59:59Z</string>
+	<key>Features</key>
+	<array>
+		<string>beta</string>
+		<string>android</string>
+		<string>ios</string>
+		<string>HTML5</string>
+		<string>Linux</string>
+		<string>Mac</string>
+		<string>Windows</string>
+		<string>android.build_module</string>
+		<string>HTML5.build_module</string>
+		<string>ios.build_module</string>
+		<string>Linux.build_module</string>
+		<string>Mac.build_module</string>
+		<string>Windows.build_module</string>
+		<string>tvos</string>
+		<string>tvos.build_module</string>
+		<string>ci_build</string>
+		<string>operagx</string>
+		<string>operagx.build_module</string>
+		<string>ff_e_filt+fx</string>
+	</array>
+	<key>IssueDate</key>
+	<string>2026-03-09T02:12:41Z</string>
+	<key>LicenceType</key>
+	<string>Personal</string>
+	<key>Licensee</key>
+	<dict>
+		<key>Email</key>
+		<string>daskoon@gmail.com</string>
+		<key>Id</key>
+		<string>310f0ec5-351b-42a3-a642-6dfabddaf4ca</string>
+		<key>Number</key>
+		<integer>5022932</integer>
+	</dict>
+	<key>Product</key>
+	<string>GameMaker Studio 2</string>
+	<key>Signature</key>
+	<data>
+	i1GU9WcNv7yZ3ZT6byxoZqWlh5BjraYYEFU6HECGm3GkqDBc+wWBsCqcBvcJ3Dk7Kfnh
+	nOayfcZEvahNEYLVqJw3LArgRaupjXmN5MSkour+N1niAnMS113ZzkgZGchPunySF1+w
+	4jkhVhdd+OJ7ajjZJnNBTF+fBFLWzjFsZm0=
+	</data>
+</dict>
+</plist>

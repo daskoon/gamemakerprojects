@@ -1,0 +1,1 @@
+{"$GMSprite":"","%Name":"spr_template","name":"spr_template","resourceType":"GMSprite","resourceVersion":"2.0","frames":[{"$GMSpriteFrame":"","%Name":"","name":"frame1","resourceType":"GMSpriteFrame","resourceVersion":"2.0"}]}

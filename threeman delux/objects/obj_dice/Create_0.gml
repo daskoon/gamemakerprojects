@@ -1,0 +1,1 @@
+// --- DICE INIT ---\nvalue = 1;\nisRolling = false;\nimage_speed = 0;\nimage_index = 0;\n\nshow_debug_message("Dice Created");
